@@ -1,0 +1,12 @@
+Mysql:
+  Ip: 192.168.40.90
+  Port: 3306
+  User: root
+  Pass: root
+  Database: kh
+Hdfs:
+  NameNode: 192.168.40.80:9000
+Router:
+  Port: 9004
+Redis:
+  Addr: 192.168.40.90:6379
